@@ -4,7 +4,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Chandler   El capitán  @37chandler
 
 # THANKS
 
