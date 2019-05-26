@@ -18,4 +18,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2019 Quatervois Enjoy Your Journey
+2019 Quatervois All rights reserved.
