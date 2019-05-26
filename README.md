@@ -4,7 +4,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding line for rebasing example.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+More changes from myfeature branch two.
 
 ## Purpose
 
