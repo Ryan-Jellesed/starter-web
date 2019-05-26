@@ -14,4 +14,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2019 Quatervois Yeah
+2019 Quatervois Enjoy Your Journey
